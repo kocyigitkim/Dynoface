@@ -14,6 +14,9 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <Description>Runtime Dynamic Interface Builder for .NET</Description>
+    <FileVersion>1.0.1</FileVersion>
+    <AssemblyVersion>$(FileVersion)</AssemblyVersion>
+    <Version>$(FileVersion)</Version>
   </PropertyGroup>
 
   <ItemGroup>
