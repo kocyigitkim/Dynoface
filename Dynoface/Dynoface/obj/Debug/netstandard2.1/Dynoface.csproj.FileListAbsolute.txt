@@ -1,0 +1,9 @@
+C:\Users\Mustafa\Documents\GitHub\Dynoface\Dynoface\Dynoface\obj\Debug\netstandard2.1\Dynoface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Documents\GitHub\Dynoface\Dynoface\Dynoface\obj\Debug\netstandard2.1\Dynoface.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Documents\GitHub\Dynoface\Dynoface\Dynoface\obj\Debug\netstandard2.1\Dynoface.AssemblyInfo.cs
+C:\Users\Mustafa\Documents\GitHub\Dynoface\Dynoface\Dynoface\obj\Debug\netstandard2.1\Dynoface.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Documents\GitHub\Dynoface\Dynoface\Dynoface\bin\Debug\netstandard2.1\Dynoface.deps.json
+C:\Users\Mustafa\Documents\GitHub\Dynoface\Dynoface\Dynoface\bin\Debug\netstandard2.1\Dynoface.dll
+C:\Users\Mustafa\Documents\GitHub\Dynoface\Dynoface\Dynoface\bin\Debug\netstandard2.1\Dynoface.pdb
+C:\Users\Mustafa\Documents\GitHub\Dynoface\Dynoface\Dynoface\obj\Debug\netstandard2.1\Dynoface.dll
+C:\Users\Mustafa\Documents\GitHub\Dynoface\Dynoface\Dynoface\obj\Debug\netstandard2.1\Dynoface.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sc3MCNTEgAw4y1+/FLCE18ylQmhjtOKJjaMxSHWJr0pgb8XXoMQMxqZOgmfWPOrqLve4VW5QblvcMBu46vxDRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mustafa\\Documents\\GitHub\\Dynoface\\Dynoface\\Dynoface\\Dynoface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
